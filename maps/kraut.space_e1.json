@@ -1003,19 +1003,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":5743,
-         "image":"..\/tiles\/AceSet-Hospital.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"AceSet-Hospital",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
