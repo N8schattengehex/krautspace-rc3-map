@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/c3post.de\/"
+                 "value":"https:\/\/rc3.c3post.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
