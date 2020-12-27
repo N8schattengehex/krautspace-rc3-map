@@ -240,7 +240,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/fahrplan.events.ccc.de\/rc3\/2020\/Fahrplan\/index.html"
+                 "value":"https:\/\/rc3.world\/rc3\/public_fahrplan"
                 }],
          "type":"tilelayer",
          "visible":true,
