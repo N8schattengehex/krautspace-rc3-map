@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_chaoszone}"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_krautspacejena}"
                 }],
          "type":"tilelayer",
          "visible":true,
