@@ -290,13 +290,19 @@
          "id":16,
          "name":"overlay_saeule",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"http:\/\/n.jo-so.de\/rc3-gaestebuch"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":49,
          "x":0,
          "y":0
         }],
- "nextlayerid":31,
+ "nextlayerid":32,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
