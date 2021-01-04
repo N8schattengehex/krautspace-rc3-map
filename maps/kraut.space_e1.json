@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/codeberg.org\/kraut.space\/tuer3.git"
+                 "value":"https:\/\/codeberg.org\/kraut.space\/tuer3"
                 }],
          "type":"tilelayer",
          "visible":true,
